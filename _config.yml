@@ -1,0 +1,8 @@
+title: Caodeguo.GitHub.io
+description: 曹德国简历
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
